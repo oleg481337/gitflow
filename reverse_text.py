@@ -1,2 +1,3 @@
 def reverse_text(value):
-	return value[::-1]
+    """Функция отражающая текст"""
+    return value[::-1]
